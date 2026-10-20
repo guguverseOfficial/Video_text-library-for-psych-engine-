@@ -1,4 +1,4 @@
-# 🐱 Divijay Text Video Library
+# 🐱 Text Video Library
 
 A library for Psych Engine that allows you to display ASCII videos (text-based animations) anywhere on screen.
 
